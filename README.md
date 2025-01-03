@@ -10,7 +10,7 @@
 - 🌐 Crypto & Tech Enthusiast
 
 ## Portfolio
-🌟 Check out my portfolio [here](https://next-js-portfolio-oqv4.vercel.app) to explore my projects and skills!
+🌟 Check out my portfolio [here](https://ui-ux-portfolio-one.vercel.app) to explore my projects and skills!
 
 ## Let's Connect
 📫 Feel free to reach out to me for collaborations or discussions. Let's build something amazing together! 🚀
