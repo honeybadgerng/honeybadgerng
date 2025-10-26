@@ -16,6 +16,6 @@
 📫 Feel free to reach out to me for collaborations or discussions. Let's build something amazing together! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/moshoodraji/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/icognitopap/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/incognitopap)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rajimoshood200482@gmail.com)
 Thanks for stopping by! 😊
